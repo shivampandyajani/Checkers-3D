@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Checkers 3D file/Scene/Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
